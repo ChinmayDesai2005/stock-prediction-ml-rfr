@@ -9,7 +9,7 @@ from source_files.load_data import load_data
 st.title("Stock Price Predictor")
 
 tickers = [
-    "NETWEB.BO",
+    "ADANIPORTS.NS",
     "ASIANPAINT.NS",
     "AXISBANK.NS",
     "BAJAJ-AUTO.NS",
